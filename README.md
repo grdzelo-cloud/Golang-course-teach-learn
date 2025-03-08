@@ -1,6 +1,5 @@
-Davit Grdelishvili introduce **Golang**, a compiled, statically typed programming language designed at Google.
+დავით გრდელიშვილი წარმოგიდგენთ **Golang**-ს, კომპილირებად, სტატიკურად ტიპიზირებულ პროგრამირების ენას, რომელიც შექმნილია Google-ში.
 
-# Go Language Course
+# Go ენის კურსი
 
-
-Welcome to the Go Language Course! this course will cover basic and advanced topics of Go programming.
+კეთილი იყოს თქვენი მობრძანება Go ენის კურსზე! ეს კურსი მოიცავს Go პროგრამირების ძირითადი და მოწინავე თემებს.
