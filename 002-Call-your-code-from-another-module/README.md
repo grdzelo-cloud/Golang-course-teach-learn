@@ -1,5 +1,5 @@
 ## Go ენის მოდულების შექმნა და დაკავშირება
-```sh
+```bash
 go mod edit -replace example.com/greetings=../greetings
 ```
 
@@ -8,7 +8,7 @@ module example.com/hello
 replace example.com/greetings => ../greetings
 ```
 
-```sh
+```bash
 go mod tidy
 ```
 
@@ -25,7 +25,7 @@ require example.com/greetings v0.0.0-00010101000000-000000000000
 require example.com/greetings v1.1.0
 ```
 ### ***კოდის გაშვება***
-```sh
+```bash
 go run .
 ```
 output

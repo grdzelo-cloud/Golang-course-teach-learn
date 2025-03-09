@@ -46,7 +46,7 @@ VS Code is now configured to use Go.
 
 open up a terminal window and type:
 
-```sh
+```bash
 go mod init example.com/hello
 ```
 
@@ -54,7 +54,7 @@ Create a new file (hello\hello.go). Copy and paste the following code and save t
 
 ### Or open terminal and type
 
-```sh
+```bash
 mkdir hello
 
 cd hello
@@ -63,7 +63,7 @@ touch helloworld.go
 ```
 
 In VS Code:
-```sh
+```bash
 code helloworld.go 
 ```
 
@@ -84,7 +84,7 @@ func main(){
 
 Now, run the code: Open a terminal in VS Code and type:
 
-```sh
+```bash
 go run ./helloworld.go
 ```
 
@@ -99,6 +99,6 @@ go run ./helloworld.go
 
 if you want to save the program as an executable, type and run:
 
-```sh
+```bash
 go build ./helloworld.go
 ```
